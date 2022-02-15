@@ -1,5 +1,5 @@
 # Pipeline
 
 Bioinformatics Pipelines for processing and analyzing biological data <br />
-Godley Lab__
+Godley Lab <br />
 University of Chicago <br />
