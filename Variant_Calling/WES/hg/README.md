@@ -1,6 +1,6 @@
 ### Germline Variant Calling in Human Whole Exome Sequence Data
 
-#### Tools Used <br \>
+#### Tools Used
 * ##### Picard 2.8.1
 * ##### BWA 0.7.15
 * ##### GATK 3.7
@@ -10,6 +10,7 @@
 #### Reference Geneome- Hg38
 
 #### Pipeline Overview
-* ##### Pre-processing Steps
-* ##### Variant Calling
-* ##### Variant Annotation
+* ##### Pre-processing Step 1-4
+* ##### Base Recalibration Step 5
+* ##### Variant Calling Step 6
+* ##### Variant Annotation Step 7
