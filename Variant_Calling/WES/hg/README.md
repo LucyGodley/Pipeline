@@ -16,5 +16,6 @@
 * ##### Base Recalibration Step 5
 * ##### Variant Calling Step 6
 * ##### Variant Annotation Step 7
+* ##### Variant Filtration FilterGenes.py
 
 *Detailed explanation of pipeline document can be found in the "WES_Pipeline.docx"
