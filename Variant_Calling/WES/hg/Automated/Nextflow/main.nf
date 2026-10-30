@@ -536,7 +536,7 @@ process geneFilter {
     
   script:
   """
-  python3 ${params.gene_filter_script} \
+  python3 ${projectDir}/${params.gene_filter_script} \
     ${gene_panel_file} \
     "${params.keep_intronic}" \
     ${output_file} \
